@@ -1,0 +1,5 @@
+﻿  FractMultiplication.cpp
+c:\csa\fractmultiplication\fractmultiplication\fractmultiplication.cpp(86): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+c:\csa\fractmultiplication\fractmultiplication\fractmultiplication.cpp(180): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+c:\csa\fractmultiplication\fractmultiplication\fractmultiplication.cpp(228): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  FractMultiplication.vcxproj -> C:\CSA\FractMultiplication\Debug\FractMultiplication.exe
