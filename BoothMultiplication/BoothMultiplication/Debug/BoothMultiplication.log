@@ -1,0 +1,5 @@
+﻿  Source.c
+c:\csa\boothmultiplication\boothmultiplication\source.c(25): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
+c:\csa\boothmultiplication\boothmultiplication\source.c(59): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+c:\csa\boothmultiplication\boothmultiplication\source.c(111): warning C4013: free: нет определения; предполагается "extern" с возвратом типа "int"
+  BoothMultiplication.vcxproj -> C:\CSA\BoothMultiplication\Debug\BoothMultiplication.exe
