@@ -1,0 +1,5 @@
+﻿  BinFractions.cpp
+c:\csa\binfractions\binfractions\binfractions.cpp(88): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+c:\csa\binfractions\binfractions\binfractions.cpp(216): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+c:\csa\binfractions\binfractions\binfractions.cpp(230): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  BinFractions.vcxproj -> C:\CSA\BinFractions\Debug\BinFractions.exe
